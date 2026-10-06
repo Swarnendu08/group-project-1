@@ -1,0 +1,15 @@
+{
+  "name": "group-project-1",
+  "image": "mcr.microsoft.com/devcontainers/universal:3",
+  "remoteUser": "codespace",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 1000,
+        "files.insertFinalNewline": true,
+        "files.trimTrailingWhitespace": true
+      }
+    }
+  }
+}
